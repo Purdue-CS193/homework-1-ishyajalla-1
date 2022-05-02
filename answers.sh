@@ -7,6 +7,7 @@ cd ORIGIN
 mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
 
 # Task 2
+
 rm -rf Memes/Spongebob/money.jpeg
 
 # Task 3
